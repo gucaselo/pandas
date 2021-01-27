@@ -1,6 +1,6 @@
 # Heroes of Pymoli Analysis
 
-<img src="images/Fantasy.png" width="100" height="100"/>
+<img src="images/Fantasy.png" width="1000" height="1000"/>
 
 ## Background
 Heroes of Pymoli is a free-to-play game from an independent gaming company that offers players optional in game purchase items that enhance their playing experience.

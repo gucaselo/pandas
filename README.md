@@ -1,6 +1,6 @@
 # Heroes of Pymoli Analysis
 
-![Fantasy](Images/Fantasy.png)
+![Fantasy](images/Fantasy.png)
 
 ## Background
 Hero of Pymoli is a free-to-play game from an independent gaming company that offer players optional in game purchase items that enhance their playing experience.
